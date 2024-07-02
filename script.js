@@ -15,19 +15,6 @@ function getComputerChoice(){
     }
 }
 
-// function getHumanChoice(){
-//     let human = parseInt(prompt('Escolha entre: \n[1] pedra | [2] papel | [3] tesoura: '));
-//     if (human == 1){
-//         return 'rock'
-//     }
-//     else if (human == 2){
-//         return 'paper'
-//     }
-//     else{
-//         return 'scissors'
-//     }
-// }
-
 let humanScore = 0;
 let computerScore = 0;
 
